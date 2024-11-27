@@ -1,0 +1,36 @@
+[2024-11-27 15:01:35] Server started on port 5001
+[2024-11-27 15:02:09] New client connected from: /127.0.0.1
+[2024-11-27 15:02:09] Client connected: rick
+[2024-11-27 15:02:09] Active clients: rick
+[2024-11-27 15:02:09] User connected: rick
+[2024-11-27 15:02:15] New client connected from: /127.0.0.1
+[2024-11-27 15:02:15] Client connected: morty
+[2024-11-27 15:02:15] Active clients: morty, rick
+[2024-11-27 15:02:15] User connected: morty
+[2024-11-27 15:02:17] Active clients: morty, rick
+[2024-11-27 15:02:25] Message from morty to rick: hello
+[2024-11-27 15:02:28] Message from morty to rick: hi
+[2024-11-27 15:04:34] Message from rick to morty: hello
+[2024-11-27 15:15:30] Client disconnected: rick
+[2024-11-27 15:15:30] Active clients: morty
+[2024-11-27 15:15:36] Client disconnected: morty
+[2024-11-27 15:15:36] Active clients: 
+[2024-11-27 15:16:04] New client connected from: /127.0.0.1
+[2024-11-27 15:16:04] Client connected: rick
+[2024-11-27 15:16:04] Active clients: rick
+[2024-11-27 15:16:04] User connected: rick
+[2024-11-27 15:16:21] New client connected from: /127.0.0.1
+[2024-11-27 15:16:21] Client connected: morty
+[2024-11-27 15:16:21] Active clients: morty, rick
+[2024-11-27 15:16:21] User connected: morty
+[2024-11-27 15:16:46] Message from rick to morty: hello
+[2024-11-27 15:16:49] Message from morty to rick: hi
+[2024-11-27 15:17:04] Message from rick to morty: aww jeez
+[2024-11-27 15:19:42] Active clients: morty, rick
+[2024-11-27 15:19:43] Active clients: morty, rick
+[2024-11-27 15:19:50] New client connected from: /127.0.0.1
+[2024-11-27 15:19:50] Client connected: beth
+[2024-11-27 15:19:50] Active clients: morty, beth, rick
+[2024-11-27 15:19:50] User connected: beth
+[2024-11-27 17:14:37] Message from rick to beth: hi beth
+[2024-11-27 17:14:44] Message from beth to rick: hi dad

@@ -1,0 +1,5 @@
+[2024-11-27 15:02:15] Connecting to server localhost:5001
+[2024-11-27 15:02:15] Connected successfully
+[2024-11-27 15:02:17] Sent message: REFRESH_USERS
+[2024-11-27 15:02:25] Sent message: rick:hello
+[2024-11-27 15:02:28] Sent message: rick:hi

@@ -1,0 +1,75 @@
+[2024-11-27 13:40:27] Server started on port 5001
+[2024-11-27 13:41:35] New client connected from: /127.0.0.1
+[2024-11-27 13:41:35] Client connected: noor
+[2024-11-27 13:41:35] Active clients: noor
+[2024-11-27 13:41:35] User connected: noor
+[2024-11-27 13:41:43] New client connected from: /127.0.0.1
+[2024-11-27 13:41:43] Client connected: shakkhor
+[2024-11-27 13:41:43] Active clients: shakkhor, noor
+[2024-11-27 13:41:43] User connected: shakkhor
+[2024-11-27 13:41:54] Message from noor to shakkhor: hello
+[2024-11-27 13:42:12] Message from shakkhor to noor: hi
+[2024-11-27 13:42:29] Client disconnected: shakkhor
+[2024-11-27 13:42:29] Active clients: noor
+[2024-11-27 13:42:35] Client disconnected: noor
+[2024-11-27 13:42:35] Active clients: 
+[2024-11-27 13:49:56] New client connected from: /127.0.0.1
+[2024-11-27 13:49:56] Client connected: rick
+[2024-11-27 13:49:56] Active clients: rick
+[2024-11-27 13:49:56] User connected: rick
+[2024-11-27 13:50:03] New client connected from: /127.0.0.1
+[2024-11-27 13:50:03] Client connected: morty
+[2024-11-27 13:50:03] Active clients: morty, rick
+[2024-11-27 13:50:03] User connected: morty
+[2024-11-27 13:50:20] Message from rick to morty: hello morty
+[2024-11-27 13:50:26] Message from morty to rick: hi rick
+[2024-11-27 13:53:31] Client disconnected: rick
+[2024-11-27 13:53:31] Active clients: morty
+[2024-11-27 13:53:41] Client disconnected: morty
+[2024-11-27 13:53:41] Active clients: 
+[2024-11-27 13:54:00] New client connected from: /127.0.0.1
+[2024-11-27 13:54:00] Client connected: rick
+[2024-11-27 13:54:00] Active clients: rick
+[2024-11-27 13:54:00] User connected: rick
+[2024-11-27 13:54:06] New client connected from: /127.0.0.1
+[2024-11-27 13:54:06] Client connected: morty
+[2024-11-27 13:54:06] Active clients: morty, rick
+[2024-11-27 13:54:06] User connected: morty
+[2024-11-27 13:54:08] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:09] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:10] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:10] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:10] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:11] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:11] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:11] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:11] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:12] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:12] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:12] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:12] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:13] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:13] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:13] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:13] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:13] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:14] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:14] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:14] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:14] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:30] Message from rick to morty: hi
+[2024-11-27 13:54:41] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:42] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:50] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:54:54] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:54:55] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:54:55] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:54:56] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:54:56] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:54:57] Broadcasting from rick: rick: REFRESH
+[2024-11-27 13:55:50] Broadcasting from morty: morty: REFRESH
+[2024-11-27 13:56:17] Client disconnected: rick
+[2024-11-27 13:56:17] Active clients: morty
+[2024-11-27 13:56:21] Shutting down server...
+[2024-11-27 13:56:21] Client disconnected: morty
+[2024-11-27 13:56:21] Active clients: 

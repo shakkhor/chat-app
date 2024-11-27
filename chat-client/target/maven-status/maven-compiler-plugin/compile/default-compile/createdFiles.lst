@@ -1,0 +1,5 @@
+com/chatapp/ui/MainWindow.class
+com/chatapp/ui/ChatWindow.class
+com/chatapp/client/ChatClient.class
+com/chatapp/ui/ConnectWindow.class
+com/chatapp/Main.class

@@ -1,0 +1,4 @@
+[2024-11-27 14:32:00] Connecting to server localhost:5001
+[2024-11-27 14:32:00] Connected successfully
+[2024-11-27 14:32:17] Sent message: morty:hello
+[2024-11-27 14:34:11] Disconnecting from server

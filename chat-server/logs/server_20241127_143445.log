@@ -1,0 +1,108 @@
+[2024-11-27 14:34:45] Server started on port 5001
+[2024-11-27 14:35:07] New client connected from: /127.0.0.1
+[2024-11-27 14:35:07] Client connected: rick
+[2024-11-27 14:35:07] Active clients: rick
+[2024-11-27 14:35:07] User connected: rick
+[2024-11-27 14:35:11] New client connected from: /127.0.0.1
+[2024-11-27 14:35:11] Client connected: morty
+[2024-11-27 14:35:11] Active clients: morty, rick
+[2024-11-27 14:35:11] User connected: morty
+[2024-11-27 14:35:16] Active clients: morty, rick
+[2024-11-27 14:35:26] Message from morty to rick: hehello
+[2024-11-27 14:35:30] Message from rick to morty: hi
+[2024-11-27 14:37:00] Client disconnected: morty
+[2024-11-27 14:37:00] Active clients: rick
+[2024-11-27 14:37:03] Client disconnected: rick
+[2024-11-27 14:37:03] Active clients: 
+[2024-11-27 14:37:34] New client connected from: /127.0.0.1
+[2024-11-27 14:37:34] Client connected: rick
+[2024-11-27 14:37:34] Active clients: rick
+[2024-11-27 14:37:34] User connected: rick
+[2024-11-27 14:37:40] New client connected from: /127.0.0.1
+[2024-11-27 14:37:40] Client connected: morty
+[2024-11-27 14:37:40] Active clients: morty, rick
+[2024-11-27 14:37:40] User connected: morty
+[2024-11-27 14:37:42] Active clients: morty, rick
+[2024-11-27 14:37:48] Message from morty to rick: hi
+[2024-11-27 14:38:41] Client disconnected: morty
+[2024-11-27 14:38:41] Active clients: rick
+[2024-11-27 14:38:43] Client disconnected: rick
+[2024-11-27 14:38:43] Active clients: 
+[2024-11-27 14:39:49] New client connected from: /127.0.0.1
+[2024-11-27 14:39:49] Client connected: rick
+[2024-11-27 14:39:49] Active clients: rick
+[2024-11-27 14:39:49] User connected: rick
+[2024-11-27 14:39:57] New client connected from: /127.0.0.1
+[2024-11-27 14:39:57] Client connected: morty
+[2024-11-27 14:39:57] Active clients: morty, rick
+[2024-11-27 14:39:57] User connected: morty
+[2024-11-27 14:40:08] Message from rick to morty: hd
+[2024-11-27 14:40:20] File transfer started: Screenshot 2024-11-24 at 12.32.21 PM.png from morty to rick
+[2024-11-27 14:40:20] File transfer completed: Screenshot 2024-11-24 at 12.32.21 PM.png
+[2024-11-27 14:41:17] Client disconnected: rick
+[2024-11-27 14:41:17] Active clients: morty
+[2024-11-27 14:41:20] Client disconnected: morty
+[2024-11-27 14:41:20] Active clients: 
+[2024-11-27 14:42:17] New client connected from: /127.0.0.1
+[2024-11-27 14:42:17] Client connected: morty
+[2024-11-27 14:42:17] Active clients: morty
+[2024-11-27 14:42:17] User connected: morty
+[2024-11-27 14:42:23] New client connected from: /127.0.0.1
+[2024-11-27 14:42:23] Client connected: rick
+[2024-11-27 14:42:23] Active clients: morty, rick
+[2024-11-27 14:42:23] User connected: rick
+[2024-11-27 14:42:25] Active clients: morty, rick
+[2024-11-27 14:42:34] Message from rick to morty: hello
+[2024-11-27 14:43:35] Client disconnected: morty
+[2024-11-27 14:43:35] Active clients: rick
+[2024-11-27 14:43:37] Client disconnected: rick
+[2024-11-27 14:43:37] Active clients: 
+[2024-11-27 14:44:44] New client connected from: /127.0.0.1
+[2024-11-27 14:44:44] Client connected: rick
+[2024-11-27 14:44:44] Active clients: rick
+[2024-11-27 14:44:44] User connected: rick
+[2024-11-27 14:44:51] New client connected from: /127.0.0.1
+[2024-11-27 14:44:51] Client connected: morty
+[2024-11-27 14:44:51] Active clients: morty, rick
+[2024-11-27 14:44:51] User connected: morty
+[2024-11-27 14:45:01] Active clients: morty, rick
+[2024-11-27 14:45:06] Message from morty to rick: hello
+[2024-11-27 14:45:12] Message from rick to morty: hi
+[2024-11-27 14:48:49] Client disconnected: morty
+[2024-11-27 14:48:49] Active clients: rick
+[2024-11-27 14:48:51] Client disconnected: rick
+[2024-11-27 14:48:51] Active clients: 
+[2024-11-27 14:52:32] New client connected from: /127.0.0.1
+[2024-11-27 14:52:32] Client connected: rick
+[2024-11-27 14:52:32] Active clients: rick
+[2024-11-27 14:52:32] User connected: rick
+[2024-11-27 14:52:40] New client connected from: /127.0.0.1
+[2024-11-27 14:52:40] Client connected: morty
+[2024-11-27 14:52:40] Active clients: morty, rick
+[2024-11-27 14:52:40] User connected: morty
+[2024-11-27 14:52:42] Active clients: morty, rick
+[2024-11-27 14:52:47] Message from morty to rick: hello
+[2024-11-27 14:52:55] Message from rick to morty: hi
+[2024-11-27 14:53:24] Message from morty to rick: what's up you little turd!
+[2024-11-27 14:53:41] Message from rick to morty: aww! jeez! I am lost
+[2024-11-27 14:54:36] New client connected from: /127.0.0.1
+[2024-11-27 14:54:36] Client connected: beth
+[2024-11-27 14:54:36] Active clients: morty, beth, rick
+[2024-11-27 14:54:36] User connected: beth
+[2024-11-27 14:54:37] Active clients: morty, beth, rick
+[2024-11-27 14:54:47] Message from beth to rick: hi rick
+[2024-11-27 14:54:58] Active clients: morty, beth, rick
+[2024-11-27 14:54:59] Active clients: morty, beth, rick
+[2024-11-27 14:54:59] Active clients: morty, beth, rick
+[2024-11-27 14:55:52] Active clients: morty, beth, rick
+[2024-11-27 14:55:55] Active clients: morty, beth, rick
+[2024-11-27 14:55:56] Active clients: morty, beth, rick
+[2024-11-27 14:55:56] Active clients: morty, beth, rick
+[2024-11-27 14:56:21] Active clients: morty, beth, rick
+[2024-11-27 14:56:52] Client disconnected: rick
+[2024-11-27 14:56:52] Active clients: morty, beth
+[2024-11-27 14:56:53] Client disconnected: morty
+[2024-11-27 14:56:53] Active clients: beth
+[2024-11-27 14:56:54] Client disconnected: beth
+[2024-11-27 14:56:54] Active clients: 
+[2024-11-27 14:56:59] Shutting down server...

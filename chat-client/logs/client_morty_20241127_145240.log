@@ -1,0 +1,7 @@
+[2024-11-27 14:52:40] Connecting to server localhost:5001
+[2024-11-27 14:52:40] Connected successfully
+[2024-11-27 14:52:42] Sent message: REFRESH_USERS
+[2024-11-27 14:52:47] Sent message: rick:hello
+[2024-11-27 14:53:24] Sent message: rick:what's up you little turd!
+[2024-11-27 14:56:21] Sent message: REFRESH_USERS
+[2024-11-27 14:56:53] Disconnecting from server

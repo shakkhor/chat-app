@@ -1,0 +1,17 @@
+[2024-11-27 14:31:35] Server started on port 5001
+[2024-11-27 14:32:00] New client connected from: /127.0.0.1
+[2024-11-27 14:32:00] Client connected: rick
+[2024-11-27 14:32:00] Active clients: rick
+[2024-11-27 14:32:00] User connected: rick
+[2024-11-27 14:32:06] New client connected from: /127.0.0.1
+[2024-11-27 14:32:06] Client connected: morty
+[2024-11-27 14:32:06] Active clients: morty, rick
+[2024-11-27 14:32:06] User connected: morty
+[2024-11-27 14:32:09] Active clients: morty, rick
+[2024-11-27 14:32:17] Message from rick to morty: hello
+[2024-11-27 14:32:24] Message from morty to rick: how are you doiing?
+[2024-11-27 14:34:07] Client disconnected: morty
+[2024-11-27 14:34:07] Active clients: rick
+[2024-11-27 14:34:11] Client disconnected: rick
+[2024-11-27 14:34:11] Active clients: 
+[2024-11-27 14:34:22] Shutting down server...
